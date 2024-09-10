@@ -1,0 +1,1 @@
+DELETE FROM `tbl_nomes` WHERE nome = 'Guilherme';
